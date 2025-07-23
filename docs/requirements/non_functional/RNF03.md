@@ -18,3 +18,9 @@ As páginas do sistema devem ser carregadas completamente em até 3 segundos em 
 2. A resposta a interações do usuário (ex: cliques em botões, filtros) deve ocorrer em menos de 1 segundo.
 3. O sistema deve otimizar o carregamento de imagens e mídias para não impactar o tempo de carregamento das páginas.
 4. O desempenho deve ser mantido mesmo com um aumento de 20% na base de usuários ativos.
+
+---
+
+## 🔗 Diagramas Relacionados
+
+- [D01 - Diagrama NFR](../../diagrams/nfr/D03.png)
